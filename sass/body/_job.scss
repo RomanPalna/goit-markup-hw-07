@@ -46,8 +46,8 @@
     padding: 27px 82px;
     margin: 0;
   }
-}
 
-.job__list:not(:last-child) {
-  margin-right: 30px;
+  &__list:not(:last-child) {
+    margin-right: 30px;
+  }
 }
