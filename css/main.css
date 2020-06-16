@@ -1172,6 +1172,11 @@ main {
 }
 
 .footer__subscribe-input {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
   width: 359px;
   height: 50px;
   margin-top: 20px;
