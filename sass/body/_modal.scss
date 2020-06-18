@@ -28,7 +28,7 @@
   background-color: $linkSeconaryColor;
 
   &__title {
-    font-family: Roboto;
+    font-family: $Roboto;
     font-weight: 700;
     font-size: 20px;
     line-height: 1.15;
@@ -53,6 +53,7 @@
     transform: translateY(-50%);
     transition: transform 250ms $animationTimingFunction;
 
+    font-family: $Roboto;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.01em;

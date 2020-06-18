@@ -1,5 +1,6 @@
 .portfolio {
   padding-bottom: 94px;
+  font-family: $Roboto;
 
   &__filter {
     text-align: center;
@@ -73,7 +74,6 @@
   }
 
   &__title {
-    font-family: Roboto;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;

@@ -17,7 +17,7 @@
   &__logo {
     color: $linkPrimaryColor;
 
-    font-family: Raleway;
+    font-family: $Raleway;
     font-weight: 700;
     font-size: 22px;
     line-height: 1.18;
@@ -37,6 +37,7 @@
 }
 
 .footer__link {
+  font-family: $Roboto;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;

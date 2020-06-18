@@ -484,7 +484,7 @@ main {
 
 .hero__button {
   display: inline-block;
-  font-family: roboto;
+  font-family: Roboto;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
@@ -577,6 +577,7 @@ main {
   transition: -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  font-family: Roboto;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.01em;
@@ -899,6 +900,7 @@ main {
 }
 
 .team__name {
+  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -909,6 +911,7 @@ main {
 }
 
 .team__vocation {
+  font-family: Roboto;
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -1085,6 +1088,7 @@ main {
 }
 
 .footer__link {
+  font-family: Roboto;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -1143,7 +1147,7 @@ main {
 .join__text,
 .footer-subscribe {
   display: inline-block;
-  font-family: roboto;
+  font-family: Roboto;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -1192,6 +1196,7 @@ main {
 
 .footer-subscribe__btn {
   position: relative;
+  font-family: Roboto;
   font-weight: 900;
   font-size: 16px;
   line-height: 1.87;
@@ -1273,6 +1278,7 @@ main {
 
 .portfolio {
   padding-bottom: 94px;
+  font-family: Roboto;
 }
 
 .portfolio__filter {
@@ -1346,7 +1352,6 @@ main {
 }
 
 .offer__title {
-  font-family: Roboto;
   font-weight: 700;
   font-size: 18px;
   line-height: 2;

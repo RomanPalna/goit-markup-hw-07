@@ -12,7 +12,7 @@
 }
 
 .footer__subscribe-input {
-  font-family: Roboto;
+  font-family: $Roboto;
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
@@ -34,6 +34,8 @@
 
 .footer-subscribe__btn {
   position: relative;
+
+  font-family: $Roboto;
   font-weight: 900;
   font-size: 16px;
   line-height: 1.87;
@@ -85,6 +87,7 @@
     background-image: url(../images/send-two.svg);
 
     margin-left: 120px;
+
     transform: translateY(40px);
     transition: transform 250ms $animationTimingFunction;
   }
@@ -99,7 +102,7 @@
 }
 
 .rights {
-  font-family: Roboto;
+  font-family: $Roboto;
   font-size: 12px;
   line-height: 2;
   letter-spacing: 0.03em;
